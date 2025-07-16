@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Yaswanth
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adimulam-yaswanth-veera-nagesh-6014382a3/)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adimulam-yaswanth-veera-nagesh-6014382a3/) 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/yaswanth230755)
 
 # 💻 Tech Stack:
