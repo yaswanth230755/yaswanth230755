@@ -1,131 +1,75 @@
-# 👋 Hi, I'm Adimulam Yaswanth Veera Nagesh
+# Hi there! 👋 I'm Yaswanth
 
-🎓 **B.Tech CSE @ NIT Calicut (NITC)**  
-💻 **Aspiring Software Engineer | C++ | DSA & CP | AI/ML | Web Development**  
-📍 Vijayawada, Andhra Pradesh, India  
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adimulam-yaswanth-veera-nagesh-6014382a3/) 
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/yaswanth230755)
 
----
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![Verilog](https://img.shields.io/badge/Verilog-%23FF6600.svg?style=for-the-badge&logo=verilog&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
+![Make](https://img.shields.io/badge/Make-%23427819.svg?style=for-the-badge&logo=cmake&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adimulam-yaswanth-veera-nagesh-6014382a3/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/yaswanth230755)  
-📧 **Email:** adimulamyaswanthveeranagesh@gmail.com
+# 🚀 Featured Projects:
+[![Pathfinding Visualizer](https://img.shields.io/badge/🗺️%20Pathfinding%20Visualizer-React%20|%20Algorithms-blue?style=for-the-badge)](https://github.com/yaswanth230755/ShortestPathVisualizer)
+[![Linear Equation Solver](https://img.shields.io/badge/🔧%20Linear%20Equation%20Solver-Verilog%20|%20Hardware-orange?style=for-the-badge)](https://github.com/yaswanth230755/verilog-linear-equation-solver)
 
----
+### 🗺️ Interactive Pathfinding Visualizer
+- **Tech Stack:** React.js, JavaScript, Tailwind CSS, Vite
+- **Features:** BFS, Dijkstra's Algorithm, A* Search with real-time visualization
+- **Highlights:** Custom Priority Queue implementation, optimized O((V + E) log V) complexity
 
-## 🚀 About Me
+### 🔧 Verilog Linear Equation Solver  
+- **Tech Stack:** Verilog, Digital Logic Design
+- **Features:** Gate-level implementation of Cramer's rule for 3-variable systems
+- **Highlights:** Custom arithmetic modules, determinant calculation, rank analysis
 
-I am an aspiring **Software Engineer** with strong problem-solving skills and a solid foundation in  
-**C, C++, and Data Structures & Algorithms**.
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=yaswanth230755&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=yaswanth230755&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanth230755&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-I enjoy building **efficient, well-structured software**, visualizing complex algorithms, and working close to core computer science fundamentals — from **hardware-level logic** to **optimized algorithms and modern web systems**.
+# 🏆 GitHub Trophies:
+![](https://github-profile-trophy.vercel.app/?username=yaswanth230755&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-🎯 **Currently seeking Software Engineering Internship opportunities.**
+# 💡 What I'm Working On:
+- 🗺️ **Interactive Algorithm Visualizations** - Making complex algorithms accessible through visual learning
+- 🧠 **Data Structures & Algorithms Projects** - Implementing efficient solutions with optimal time complexity
+- 🔧 **Hardware Design with Verilog** - Gate-level implementations of mathematical algorithms
+- 📱 **Modern Web Applications** - Building responsive, user-friendly interfaces with React
 
----
+# 🎯 Current Focus:
 
-## 🏫 Education
-
-**National Institute of Technology, Calicut (NITC)**  
-🎓 B.Tech in Computer Science & Engineering  
-📅 Aug 2023 – Present  
-📊 **GPA: 9.05 / 10**
-
-**JEE Mains 2023:** **99.56 percentile (AIR 5126)**  
-**Class XII:** 975 / 1000  
-**Class X:** 10 / 10
-
----
-
-## 🧑‍💻 Technical Experience
-
-### Google Developer Student Clubs (GDSC), NIT Calicut  
-**CP & DSA Team Member** | *2025 – Present*
-
-- Promoting a strong coding culture through **hackathons, workshops, and hands-on sessions**
-- Collaborated on **web development and open-source initiatives**
-- Worked on a **college event management system** that improved participation by **40%**
-
----
-
-## 💻 Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Verilog-FF6600?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Make-427819?style=for-the-badge&logo=cmake&logoColor=white"/>
-</p>
-
-**Languages:** C, C++, Java, Python, JavaScript, SQL  
-**Web & Backend:** React.js, Tailwind CSS, Vite, Node.js, Express.js, Spring Boot  
-**Core CS:** Data Structures & Algorithms, OOP, LLD, System Design (Basics)  
-**AI / ML:** Machine Learning, Deep Learning, Generative & Predictive AI  
-
----
-
-## 🛠️ Featured Projects
-
-<p align="left">
-  <a href="https://github.com/yaswanth230755/ShortestPathVisualizer">
-    <img src="https://img.shields.io/badge/🗺️%20Shortest%20Path%20Visualizer-Algorithms%20|%20React-blue?style=for-the-badge"/>
-  </a>
-  <a href="https://github.com/yaswanth230755/verilog-linear-equation-solver">
-    <img src="https://img.shields.io/badge/🔧%20Linear%20Equation%20Solver-Verilog%20|%20Hardware-orange?style=for-the-badge"/>
-  </a>
-</p>
-
-### 🗺️ Shortest Path Visualizer
-🔗 https://github.com/yaswanth230755/ShortestPathVisualizer  
-- Visualized **BFS, Dijkstra’s, and A\*** algorithms  
-- Optimized to **O((V + E) log V)** using a custom **min-heap priority queue**  
-- Drag-and-drop grids, weighted graphs, dynamic speed controls  
-
-### 🔧 Verilog-Based Linear Equation Solver
-🔗 https://github.com/yaswanth230755/verilog-linear-equation-solver  
-- Gate-level solver using **Cramer's Rule**  
-- Custom arithmetic modules (3–12 bit)  
-- Classified systems as **unique / infinite / unsolvable**
-
-### 📦 Huffman Encoding Algorithm
-🔗 https://github.com/yaswanth230755/HuffmanEncoder  
-- Implemented optimal **Huffman Coding** using priority queues and trees  
-- Supports file-based and direct text inputs  
-- Robust handling of edge cases
-
----
-
-## 💡 What I’m Working On
-- 🗺️ Interactive **algorithm visualizations**
-- 🧠 **DSA & Competitive Programming** focused problem-solving
-- 🔧 **Hardware-level design** using Verilog
-- 🌐 Building **clean, modern web applications**
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=yaswanth230755&theme=radical&hide_border=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=yaswanth230755&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanth230755&theme=radical&layout=compact)
-
----
-
-## 🎯 Current Focus
-
-```js
 const yaswanth = {
-  languages: ["C++", "JavaScript", "Python", "Verilog"],
-  focus: ["DSA", "Competitive Programming", "System Design"],
-  building: ["Algorithm Visualizers", "Efficient Systems"],
-  learning: "Advanced System Design",
+code: ["JavaScript", "C++", "Python", "Verilog"],
+technologies: {
+frontEnd: ["React", "Tailwind CSS", "Vite"],
+algorithms: ["BFS", "Dijkstra", "A*", "Dynamic Programming"],
+hardware: ["Verilog", "Digital Logic Design", "FPGA"],
+tools: ["Git", "Make", "Bash"]
+},
+currentlyLearning: "Advanced System Design & Algorithm Optimization",
+lookingFor: "Software Engineering Internship Opportunities",
+funFact: "I love turning complex algorithms into beautiful visualizations! 🎨"
 };
+
+
+# 📈 Contribution Graph:
+![](https://github-readme-activity-graph.vercel.app/graph?username=yaswanth230755&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true)
+
+---
+### 💭 Quote of the Day:
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=yaswanth230755&icon=2&color=6)](https://visitcount.itsvg.in)
+
+<!-- Crafted with passion for algorithms and clean code 💻✨ -->
